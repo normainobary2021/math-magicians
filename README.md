@@ -77,4 +77,4 @@ Feel free to check the [issues page](https://github.com/normainobary2021/math-ma
 Please give a ⭐️ if you like this project!
 
 ## 📝 License
-- This project is [MIT](./MIT) licensed.
+- This project is [MIT](https://github.com/normainobary2021/math-magicians/blob/setup/MIT.md) licensed.
