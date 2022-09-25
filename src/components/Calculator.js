@@ -122,11 +122,24 @@ const Calculator = () => {
             </div>
           </div>
           <div className="operators">
-            <button type="button" onClick={handleClick} className="key divide" value="÷">/ {' '}</button>
-            <button type="button" onClick={handleClick} className="key multiply" value="x">* {' '}</button>
+            <button type="button" onClick={handleClick} className="key divide" value="÷">
+              /
+              {' '}
+            </button>
+            <button type="button" onClick={handleClick} className="key multiply" value="x">
+              *
+              {' '}
+            </button>
             <button type="button" onClick={handleClick} className="key subtract" value="-">-</button>
-            <button type="button" onClick={handleClick} className="key add" value="+">+ {' '}</button>
-            <button type="button" onClick={handleClick} className="key equalTo" value="=">{' '} = {' '}</button>
+            <button type="button" onClick={handleClick} className="key add" value="+">
+              +
+              {' '}
+            </button>
+            <button type="button" onClick={handleClick} className="key equalTo" value="=">
+              {' '}
+              =
+              {' '}
+            </button>
           </div>
         </div>
       </div>
