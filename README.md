@@ -6,6 +6,8 @@
 > The App contains three pages (Home, Calculator and Quote).
 > It will be developed in multiple stages, and currently it is in its initial setup stage of development.
 
+![Project Screenshot](./screenshot.png "Math Magician")
+
 ## Built With
 
 - **HTML**
